@@ -70,7 +70,7 @@ const CartProvider = ({ children }: { children: ReactNode }) => {
     }, 0);
   }, [products]);
 
-  const totalDiscount = total - subtotal;
+  const totalDiscount = subtotal - total;
 
   const addProductToCart = (product: CartProduct) => {
     const productIsAlreadyOnCart = products.some(
