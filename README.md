@@ -1,6 +1,6 @@
 # Projeto Rogerio Store 👨‍💻
 
-Projeto de E-commerce desenvolvido para melhorar minhas habilidades de dev.
+Projeto de E-commerce desenvolvido para aprimorar meus conhecimentos nas tecnologias utilizadas.
 
 ## Tecnologias Utilizadas 🚀
 
